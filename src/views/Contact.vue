@@ -1,3 +1,3 @@
 <template>
-  <h2>Contact</h2>
+  <p class="text-3xl text-gray-700 font-bold mb-5">Contact</p>
 </template>
