@@ -3,7 +3,7 @@
     <router-link to="/">Home</router-link> | <router-link to="/about">About</router-link> |
     <router-link to="/contact">Contact</router-link>
   </nav>
-  <main>
+  <main class="bg-gray-200">
     <router-view />
   </main>
 </template>
